@@ -1,0 +1,16 @@
+.post h2{
+    color: #09f;
+}
+
+.likebtn{
+    background: none;
+    border: none;
+    font-size: 1.5em;
+}
+
+.comments{
+    padding: 5px;
+    font-size: 8px;
+    background: rgb(49, 49, 49);
+    list-style: none;
+}
